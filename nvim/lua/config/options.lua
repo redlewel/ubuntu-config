@@ -4,3 +4,4 @@
 vim.opt.relativenumber = false
 vim.opt.number = true
 vim.opt.equalalways = false
+vim.g.autoformat = false

@@ -66,7 +66,6 @@ return {
       inline = { adapter = "minimax" },
       cmd = { adapter = "minimax" },
     },
-  },
   -- Keymaps
   keys = {
     -- Toggle chat buffer (your main on/off switch)
